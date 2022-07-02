@@ -3,11 +3,11 @@ Jumpscare Project by Pak Angga
 
 # Conventional commits
 
-`feat` : new features
-`fix` : fix something, e.g bugs
-`ref` : refactor code
-`docs` : documentation
-`style` : not affect to the code, e.g formatting, missing semi-colons, white space, etc
+`feat` : new features<br>
+`fix` : fix something, e.g bugs<br>
+`ref` : refactor code<br>
+`docs` : documentation<br>
+`style` : not affect to the code, e.g formatting, missing semi-colons, white space, etc<br>
 
 
 
