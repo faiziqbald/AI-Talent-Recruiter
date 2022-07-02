@@ -1,10 +1,15 @@
-import './style/global.css'
-import Hero from './components/Hero';
+import {Routes, Route} from 'react-router-dom';
+// import Navbar from './pages/Admin/Navbar';
+// import Sidebar from './pages/Admin/Sidebar';
+import { Home } from './pages/Home';
+
 
 function App() {
   return (
     <div className="App">
-      <Hero/>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
     </div>
   );
 }
